@@ -1,0 +1,1 @@
+Le script pour créer la base et la table se trouve dans le fichier magasin.sql
